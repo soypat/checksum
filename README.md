@@ -10,3 +10,6 @@ Or just open it and type in the filename (with extension!)
 
 ## Screenshot
 [<img src="./_assets/result.png" align="center" alt="Screenshot of program in action" width="100%">](./checksum.go)
+
+### Binary
+Executable can be found on my site whittileaks under [combinatrix](https://sites.google.com/site/whittileak/home/combinatrix). 
